@@ -129,7 +129,7 @@ Two Power BI dashboard pages were created:
 
 ### Sales Overview
 
-![Sales Overview](images/sales_overview.png)
+![Sales Overview](./images/sales_overview_dashboard.png)
 
 ### Customer & Operations
 
